@@ -1,4 +1,4 @@
-Image Processing Toolbox
+#Image Processing Toolbox
 
 This repository contains a collection of image processing techniques implemented using OpenCV in Python. Below is an overview of the functionalities available in this toolbox:
 
